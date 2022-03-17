@@ -5,4 +5,4 @@ For this prediction task, the goal was to predict whether or not a lender was go
 # Data
 lending_train.csv
   - training data csv 
-  ![alt text](https://github.com/[dMahra]/[bank-lending-prediction-task]/blob/[branch]/info.jpg?raw=true)
+  ![link]https://github.com/dMahra/bank-lending-prediction-task/blob/main/info.jpg 
